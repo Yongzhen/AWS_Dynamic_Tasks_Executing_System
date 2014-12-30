@@ -7,4 +7,6 @@ AWS_Dynamic_Tasks_Executing_System
 •	Based on the SQS length to achieve dynamic provision and automatic termination of worker nodes.
 
 
+How to Use
+==================================
 If you want to use it, you need to set up you default aws account and credentials at '.aws' folder. What's more, replace the SQS url, EC2 ip address and so on.
